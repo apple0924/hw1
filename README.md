@@ -39,3 +39,5 @@
 
 實現關係（Realization）
 依賴關係（Dependency）
+
+![image](https://github.com/apple0924/hw1/blob/main/4.png)
