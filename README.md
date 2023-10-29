@@ -16,6 +16,8 @@
 
 在UML中，構件以一個左側帶有突出兩個小矩形的矩形來表示。
 
+![image](https://github.com/apple0924/hw1/blob/main/%E5%9C%961.png)
+
 
 對於一個構件而言，它有兩類介面：提供（provided）介面和所需（required）的介面。
 
